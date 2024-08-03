@@ -1,1 +1,1 @@
-# respon-web-des
+# responsive-web-design-course-projects
